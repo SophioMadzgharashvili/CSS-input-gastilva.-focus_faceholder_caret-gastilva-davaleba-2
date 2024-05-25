@@ -51,7 +51,7 @@ body {
     background-color: #6756CB;
     border-radius: 10px;
     color: white;
-    margin: 30px auto;
+    margin: 40px auto;
     display: block;
  }
 
@@ -69,13 +69,13 @@ body {
 .input-container i {
     position: absolute;
     right: 20px;
-    top: 53px;
+    top: 42px;
     font-size: 12px;
     color: black;
     z-index: 15;
 }
 
-.input-container input {
+.input {
     width: 315px;
     height: 45px;
     border: 1px solid rgba(244, 180, 180, 48%);
@@ -83,6 +83,7 @@ body {
     outline: none;
     padding-left: 10px;
     position: relative;
+    margin-top: 5px;
 }
 
 
